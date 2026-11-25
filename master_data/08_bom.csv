@@ -1,0 +1,43 @@
+Reference,Product,BoM Type,Quantity,Unit of Measure,BoM Lines/Component,BoM Lines/Quantity,Operations/Operation,Operations/Work Center,Operations/Manual Duration
+BOM-CF-ROB-250,Cà phê Robusta 250g,Manufacture this product,40,Units,Nhân xanh Robusta S18,12,Rang,Máy rang cà phê,30
+,,,,,Túi cà phê 250g,40,Đóng gói,Khu đóng gói,20
+,,,,,Tem nhãn 90S Coffee,40,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+BOM-CF-ROB-1K,Cà phê Robusta 1kg,Manufacture this product,10,Units,Nhân xanh Robusta S18,12,Rang,Máy rang cà phê,30
+,,,,,Túi cà phê 1kg,10,Đóng gói,Khu đóng gói,10
+,,,,,Tem nhãn 90S Coffee,10,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+BOM-CF-ARA-250,Cà phê Arabica 250g,Manufacture this product,40,Units,Nhân xanh Arabica S16,12,Rang,Máy rang cà phê,30
+,,,,,Túi cà phê 250g,40,Đóng gói,Khu đóng gói,20
+,,,,,Tem nhãn 90S Coffee,40,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+BOM-CF-ARA-1K,Cà phê Arabica 1kg,Manufacture this product,10,Units,Nhân xanh Arabica S16,12,Rang,Máy rang cà phê,30
+,,,,,Túi cà phê 1kg,10,Đóng gói,Khu đóng gói,10
+,,,,,Tem nhãn 90S Coffee,10,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+BOM-CF-DV-250,Cà phê Đỉnh Vị 250g,Manufacture this product,40,Units,Nhân xanh Arabica S16,6,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Moka S18 Cầu Đất,3.6,Đóng gói,Khu đóng gói,20
+,,,,,Nhân xanh Robusta Honey,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 250g,40,,,
+,,,,,Tem nhãn 90S Coffee,40,,,
+BOM-CF-DV-1K,Cà phê Đỉnh Vị 1kg,Manufacture this product,10,Units,Nhân xanh Arabica S16,6,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Moka S18 Cầu Đất,3.6,Đóng gói,Khu đóng gói,10
+,,,,,Nhân xanh Robusta Honey,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 1kg,10,,,
+,,,,,Tem nhãn 90S Coffee,10,,,
+BOM-CF-DM2-250,Cà phê Đam Mê 2 250g,Manufacture this product,40,Units,Nhân xanh Robusta S18,7.2,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Culi Robusta,2.4,Đóng gói,Khu đóng gói,20
+,,,,,Nhân xanh Arabica S16,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 250g,40,,,
+,,,,,Tem nhãn 90S Coffee,40,,,
+BOM-CF-DM2-1K,Cà phê Đam Mê 2 1kg,Manufacture this product,10,Units,Nhân xanh Robusta S18,7.2,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Culi Robusta,2.4,Đóng gói,Khu đóng gói,10
+,,,,,Nhân xanh Arabica S16,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 1kg,10,,,
+,,,,,Tem nhãn 90S Coffee,10,,,
+BOM-CF-BQ3-250,Cà phê Bí Quyết 3 250g,Manufacture this product,40,Units,Nhân xanh Robusta S18,6,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Arabica S16,3.6,Đóng gói,Khu đóng gói,20
+,,,,,Nhân xanh Robusta Honey,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 250g,40,,,
+,,,,,Tem nhãn 90S Coffee,40,,,
+BOM-CF-BQ3-1K,Cà phê Bí Quyết 3 1kg,Manufacture this product,10,Units,Nhân xanh Robusta S18,6,Rang,Máy rang cà phê,30
+,,,,,Nhân xanh Arabica S16,3.6,Đóng gói,Khu đóng gói,10
+,,,,,Nhân xanh Robusta Honey,2.4,Kiểm tra chất lượng,Bàn kiểm tra chất lượng (QC),10
+,,,,,Túi cà phê 1kg,10,,,
+,,,,,Tem nhãn 90S Coffee,10,,,

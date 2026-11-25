@@ -1,5 +1,19 @@
-﻿.env
+# Environment secrets
+.env
+
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
 *.log
+
+# IDE
+.vscode/
+.idea/
+
+# Local data and backups
+*.dump
+*.backup
+*.sql
+
+# OS
 .DS_Store

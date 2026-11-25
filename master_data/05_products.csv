@@ -1,0 +1,25 @@
+Name,Internal Reference,Product Type,Product Category,Unit of Measure,Purchase UoM,Sales Price,Cost,Can be Sold,Can be Purchased,Routes,Vendors/Vendor,Vendors/Price
+Nhân xanh Robusta S18,NX-ROB-S18,Storable Product,All / Nguyên vật liệu / Nhân xanh,kg,kg,0,95000,FALSE,TRUE,Buy,Vựa Nhân Xanh Pleiku,95000
+Nhân xanh Arabica S16,NX-ARA-S16,Storable Product,All / Nguyên vật liệu / Nhân xanh,kg,kg,0,210000,FALSE,TRUE,Buy,HTX Cà Phê Cầu Đất Xanh,210000
+Nhân xanh Culi Robusta,NX-CULI,Storable Product,All / Nguyên vật liệu / Nhân xanh,kg,kg,0,110000,FALSE,TRUE,Buy,Vựa Nhân Xanh Pleiku,110000
+Nhân xanh Moka S18 Cầu Đất,NX-MOKA-S18,Storable Product,All / Nguyên vật liệu / Nhân xanh,kg,kg,0,260000,FALSE,TRUE,Buy,HTX Cà Phê Cầu Đất Xanh,260000
+Nhân xanh Robusta Honey,NX-ROB-HONEY,Storable Product,All / Nguyên vật liệu / Nhân xanh,kg,kg,0,140000,FALSE,TRUE,Buy,HTX Cà Phê Đắk Lắk,140000
+Túi cà phê 250g,BB-TUI-250,Storable Product,All / Nguyên vật liệu / Bao bì - Phụ liệu,Units,Units,0,2500,FALSE,TRUE,Buy,Công ty TNHH Bao Bì Á Châu,2500
+Túi cà phê 1kg,BB-TUI-1KG,Storable Product,All / Nguyên vật liệu / Bao bì - Phụ liệu,Units,Units,0,5000,FALSE,TRUE,Buy,Công ty TNHH Bao Bì Á Châu,5000
+Tem nhãn 90S Coffee,BB-TEM-90S,Storable Product,All / Nguyên vật liệu / Bao bì - Phụ liệu,Units,Units,0,500,FALSE,TRUE,Buy,Công ty TNHH In Nhãn Việt,500
+Thùng carton đóng gói,BB-THUNG-12,Storable Product,All / Nguyên vật liệu / Bao bì - Phụ liệu,Units,Units,0,12000,FALSE,TRUE,Buy,Công ty TNHH Bao Bì Á Châu,12000
+Ly thủy tinh 90S (quà tặng),QT-LY-90S,Storable Product,All / Quà tặng khuyến mãi,Units,Units,45000,25000,TRUE,TRUE,Buy,Công ty TNHH Thủy Tinh Bình Minh,25000
+Cà phê Robusta 250g,CF-ROB-250,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,95000,31500.0,TRUE,FALSE,Manufacture,,
+Cà phê Robusta 1kg,CF-ROB-1K,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,342000,119500.0,TRUE,FALSE,Manufacture,,
+Cà phê Arabica 250g,CF-ARA-250,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,100000,66000.0,TRUE,FALSE,Manufacture,,
+Cà phê Arabica 1kg,CF-ARA-1K,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,360000,257500.0,TRUE,FALSE,Manufacture,,
+Cà phê Đỉnh Vị 250g,CF-DV-250,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,117000,66300.0,TRUE,FALSE,Manufacture,,
+Cà phê Đỉnh Vị 1kg,CF-DV-1K,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,421000,258700.0,TRUE,FALSE,Manufacture,,
+Cà phê Đam Mê 2 250g,CF-DM2-250,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,93000,39300.0,TRUE,FALSE,Manufacture,,
+Cà phê Đam Mê 2 1kg,CF-DM2-1K,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,335000,150700.0,TRUE,FALSE,Manufacture,,
+Cà phê Bí Quyết 3 250g,CF-BQ3-250,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,103000,44600.0,TRUE,FALSE,Manufacture,,
+Cà phê Bí Quyết 3 1kg,CF-BQ3-1K,Storable Product,All / Thành phẩm / Cà phê rang xay,Units,Units,371000,171700.0,TRUE,FALSE,Manufacture,,
+Dịch vụ rang gia công (OEM),DV-RANG-GC,Service,All / Dịch vụ,kg,kg,10000,0,TRUE,FALSE,,,
+Thiết kế bao bì - Basic,DV-TK-BASIC,Service,All / Dịch vụ,Units,Units,400000,0,TRUE,FALSE,,,
+Thiết kế bao bì - Standard,DV-TK-STD,Service,All / Dịch vụ,Units,Units,900000,0,TRUE,FALSE,,,
+Thiết kế bao bì - Premium Plus,DV-TK-PREM,Service,All / Dịch vụ,Units,Units,1800000,0,TRUE,FALSE,,,

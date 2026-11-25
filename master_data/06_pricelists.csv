@@ -1,0 +1,7 @@
+Pricelist Name,Price Rules/Apply On,Price Rules/Product Category,Price Rules/Product,Price Rules/Min. Quantity,Price Rules/Compute Price,Price Rules/Fixed Price,Price Rules/Percentage Price
+Giá bán lẻ,,,,,,,
+Giá VIP,All Products,,,1,Discount,,5
+Giá Đại lý,Product Category,All / Thành phẩm / Cà phê rang xay,,10,Discount,,10
+Giá OEM - Rang gia công,Product,,Dịch vụ rang gia công (OEM),30,Fixed Price,10000,
+,Product,,Dịch vụ rang gia công (OEM),90,Fixed Price,8000,
+,Product,,Dịch vụ rang gia công (OEM),1000,Fixed Price,6000,

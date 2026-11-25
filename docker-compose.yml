@@ -1,0 +1,37 @@
+services:
+  db:
+    image: postgres:15
+    container_name: 90s-coffee-db
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: odoo
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Please set POSTGRES_PASSWORD in .env}
+    volumes:
+      - db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U odoo -d postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+  odoo:
+    image: odoo:17.0
+    container_name: 90s-coffee-odoo
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8069:8069"
+    environment:
+      HOST: db
+      USER: odoo
+      PASSWORD: ${POSTGRES_PASSWORD:?Please set POSTGRES_PASSWORD in .env}
+    volumes:
+      - odoo-data:/var/lib/odoo
+      - ./custom_addons:/mnt/extra-addons
+    restart: unless-stopped
+
+volumes:
+  db-data:
+  odoo-data:

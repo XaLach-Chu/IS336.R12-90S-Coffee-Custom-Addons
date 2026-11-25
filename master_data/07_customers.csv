@@ -1,0 +1,11 @@
+Name,Company Type,Street,City,Country,Phone,Email,Tax ID,Tags,Pricelist
+Quán Cà Phê Hẻm Xưa,Company,(địa chỉ giả lập),Hồ Chí Minh,Vietnam,0900 000 001,hemxua@example.com,0315000001,"VIP,Quán cà phê",Giá VIP
+Chuỗi Cà Phê Góc Phố,Company,(địa chỉ giả lập),Hồ Chí Minh,Vietnam,0900 000 002,gocpho@example.com,0315000002,"VIP,Quán cà phê",Giá VIP
+Specialty Coffee House,Company,(địa chỉ giả lập),Hà Nội,Vietnam,0900 000 003,specialty.hn@example.com,0115000003,"VIP,Quán cà phê",Giá VIP
+Cà Phê Sân Vườn Ánh Dương,Company,(địa chỉ giả lập),Bình Dương,Vietnam,0900 000 004,anhduong@example.com,3715000004,Quán cà phê,Giá bán lẻ
+Đại lý Cà Phê Thành Đạt,Company,(địa chỉ giả lập),Đồng Nai,Vietnam,0900 000 005,thanhdat@example.com,3615000005,Đại lý,Giá Đại lý
+Đại lý Cà Phê Minh Phát,Company,(địa chỉ giả lập),Đà Nẵng,Vietnam,0900 000 006,minhphat@example.com,0415000006,Đại lý,Giá Đại lý
+Cửa hàng Tiện Lợi An Phú,Company,(địa chỉ giả lập),Hồ Chí Minh,Vietnam,0900 000 007,anphu@example.com,0315000007,Đại lý,Giá Đại lý
+Thương hiệu Cà Phê Rừng Xanh,Company,(địa chỉ giả lập),Hồ Chí Minh,Vietnam,0900 000 008,rungxanh@example.com,0315000008,OEM,Giá OEM - Rang gia công
+Nhà hàng Hương Việt,Company,(địa chỉ giả lập),Cần Thơ,Vietnam,0900 000 009,huongviet@example.com,1815000009,HoReCa,Giá bán lẻ
+Khách lẻ - Sàn TMĐT,Company,(địa chỉ giả lập),Hồ Chí Minh,Vietnam,0900 000 010,online@example.com,,Kênh online,Giá bán lẻ
